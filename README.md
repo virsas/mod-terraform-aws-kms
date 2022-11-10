@@ -1,4 +1,4 @@
-# terraform_kms
+# mod-terraform-aws-kms
 
 Terraform module to create KMS encryption keys.
 
