@@ -7,7 +7,7 @@ provider "aws" {
   }
 }
 
-resource "aws_kms_key" "key" {
+resource "aws_kms_key" "vss" {
   tags                    = { name = var.name }
   description             = var.description
 
